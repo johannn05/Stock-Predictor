@@ -2,3 +2,4 @@ matplotlib
 plotly
 prophet>=1.1
 streamlit
+yfinance==0.1.87
